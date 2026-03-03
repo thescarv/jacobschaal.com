@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "name": "Jacob Schaal",
+    "tagline": "AI Governance Researcher \u00b7 Economist",
+    "bio": "I research how artificial intelligence transforms labour markets and what policy responses can protect workers \u2014 particularly those at the start of their careers. My work on \u201cseniority-biased technological change\u201d examines why AI disproportionately automates entry-level positions, threatening traditional career progression pathways.\n\nI serve as AI Governance Research Manager at Cambridge ERA, Research Assistant at King\u2019s College London under Dr Bouke Klein Teeselink, and Contributing Editor of the AI Economics Brief at Windfall Trust. I hold an MSc in Economics from the London School of Economics."
+  },
+  "social": [
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/jacobschaal", "icon": "linkedin" },
+    { "platform": "Twitter/X", "url": "https://x.com/FutureEconJacob", "icon": "twitter" },
+    { "platform": "Substack", "url": "https://substack.com/@futureecon", "icon": "substack" }
+  ],
+  "affiliations": [
+    {
+      "institution": "Cambridge ERA",
+      "role": "AI Governance Research Manager",
+      "period": "June 2025 \u2013 present",
+      "logo": "cambridge-era.svg",
+      "url": "#"
+    },
+    {
+      "institution": "King\u2019s College London",
+      "role": "Research Assistant",
+      "period": "Nov 2025 \u2013 present",
+      "logo": "kcl.svg",
+      "url": "#"
+    },
+    {
+      "institution": "Windfall Trust",
+      "role": "Contributing Editor, AI Economics Brief",
+      "period": "Nov 2025 \u2013 present",
+      "logo": "windfall.svg",
+      "url": "#"
+    }
+  ],
+  "featuredLogos": [
+    {
+      "outlet": "Frankfurter Allgemeine Zeitung",
+      "shortName": "FAZ",
+      "logo": "faz.svg",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/arbeitsmarkt-deutschland-muss-auf-automatisierung-von-einstiegsstellen-reagieren-110757587.html",
+      "archiveUrl": ""
+    },
+    {
+      "outlet": "Handelsblatt",
+      "shortName": "Handelsblatt",
+      "logo": "handelsblatt.svg",
+      "url": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wie-wir-wertschoepfung-behalten-wenn-ki-arbeit-automatisiert-1/100185402.html",
+      "archiveUrl": ""
+    },
+    {
+      "outlet": "Verfassungsblog",
+      "shortName": "Verfassungsblog",
+      "logo": "verfassungsblog.svg",
+      "url": "https://verfassungsblog.de/overcoming-big-tech-ai-merger-evasions-innovating-eu-competition-law-through-the-ai-act/",
+      "archiveUrl": ""
+    },
+    {
+      "outlet": "Competition Law Insight",
+      "shortName": "Comp. Law Insight",
+      "logo": "competition-law-insight.svg",
+      "url": "https://www.competitionlawinsight.com/regulatory/designing-a-better-competition-law-framework-for-the-eu-ai-industry-158212.htm",
+      "archiveUrl": ""
+    },
+    {
+      "outlet": "AI Policy Bulletin",
+      "shortName": "AI Policy Bulletin",
+      "logo": "ai-policy-bulletin.svg",
+      "url": "https://www.aipolicybulletin.org/articles/what-the-uk-can-learn-from-californias-frontier-ai-regulation-battle",
+      "archiveUrl": ""
+    }
+  ],
+  "selectedWriting": [
+    {
+      "title": "Wie wir Wertsch\u00f6pfung behalten, wenn KI Arbeit automatisiert",
+      "venue": "Handelsblatt",
+      "type": "Op-Ed",
+      "date": "2026",
+      "url": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wie-wir-wertschoepfung-behalten-wenn-ki-arbeit-automatisiert-1/100185402.html",
+      "archiveUrl": "",
+      "description": "Policy recommendations on how Germany should respond to AI\u2019s labour market impact."
+    },
+    {
+      "title": "Deutschland muss auf die Automatisierung von Einstiegsstellen reagieren",
+      "venue": "Frankfurter Allgemeine Zeitung",
+      "type": "Op-Ed",
+      "date": "2025",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/arbeitsmarkt-deutschland-muss-auf-automatisierung-von-einstiegsstellen-reagieren-110757587.html",
+      "archiveUrl": "",
+      "description": "How AI disproportionately affects junior workers through seniority-biased technological change."
+    },
+    {
+      "title": "What the UK Can Learn from California\u2019s Frontier AI Regulation Battle",
+      "venue": "AI Policy Bulletin",
+      "type": "Policy Analysis",
+      "date": "2025",
+      "url": "https://www.aipolicybulletin.org/articles/what-the-uk-can-learn-from-californias-frontier-ai-regulation-battle",
+      "archiveUrl": "",
+      "description": "Lessons from California\u2019s SB 1047 for UK AI safety legislation."
+    },
+    {
+      "title": "Searching for Answers: Why the EU Commission Should Designate Chatbots as Search Engines under the DSA",
+      "venue": "Verfassungsblog",
+      "type": "Policy Analysis",
+      "date": "2026",
+      "url": "https://verfassungsblog.de/searching-for-answers/",
+      "archiveUrl": "",
+      "description": "Why the EU Commission should designate chatbots as Very Large Online Search Engines under the Digital Services Act.",
+      "coAuthors": "M. Lenner, T. Akinyemi"
+    },
+    {
+      "title": "Designing a Better Competition Law Framework for the EU AI Industry",
+      "venue": "Competition Law Insight",
+      "type": "Policy Analysis",
+      "date": "2024",
+      "url": "https://www.competitionlawinsight.com/regulatory/designing-a-better-competition-law-framework-for-the-eu-ai-industry-158212.htm",
+      "archiveUrl": "",
+      "description": "Two-part series on reforming EU competition law for the AI sector.",
+      "coAuthors": "C.P. Osorio"
+    },
+    {
+      "title": "AI Economics Brief",
+      "venue": "Windfall Trust",
+      "type": "Newsletter",
+      "date": "2025 \u2013 present",
+      "url": "#",
+      "archiveUrl": "",
+      "description": "Biweekly newsletter synthesising frontier AI economics research for 1,200+ subscribers including policymakers and researchers."
+    }
+  ],
+  "allWriting": {
+    "opeds": [
+      {
+        "title": "Wie wir Wertsch\u00f6pfung behalten, wenn KI Arbeit automatisiert",
+        "venue": "Handelsblatt",
+        "type": "Op-Ed",
+        "date": "2026",
+        "url": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-wie-wir-wertschoepfung-behalten-wenn-ki-arbeit-automatisiert-1/100185402.html",
+        "archiveUrl": "",
+        "description": "Policy recommendations on AI\u2019s labour market impact in Germany."
+      },
+      {
+        "title": "Searching for Answers: Why the EU Commission Should Designate Chatbots as Search Engines under the DSA",
+        "venue": "Verfassungsblog",
+        "type": "Policy Analysis",
+        "date": "2026",
+        "url": "https://verfassungsblog.de/searching-for-answers/",
+        "archiveUrl": "",
+        "coAuthors": "M. Lenner, T. Akinyemi",
+        "description": "Why the EU Commission should designate chatbots as Very Large Online Search Engines under the Digital Services Act."
+      },
+      {
+        "title": "Deutschland muss auf die Automatisierung von Einstiegsstellen reagieren",
+        "venue": "Frankfurter Allgemeine Zeitung",
+        "type": "Op-Ed",
+        "date": "2025",
+        "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/arbeitsmarkt-deutschland-muss-auf-automatisierung-von-einstiegsstellen-reagieren-110757587.html",
+        "archiveUrl": ""
+      },
+      {
+        "title": "What the UK Can Learn from California\u2019s Frontier AI Regulation Battle",
+        "venue": "AI Policy Bulletin",
+        "type": "Policy Analysis",
+        "date": "2025",
+        "url": "https://www.aipolicybulletin.org/articles/what-the-uk-can-learn-from-californias-frontier-ai-regulation-battle",
+        "archiveUrl": ""
+      },
+      {
+        "title": "Overcoming Big Tech AI Merger Evasions: Innovating EU Competition Law through the AI Act",
+        "venue": "Verfassungsblog",
+        "type": "Policy Analysis",
+        "date": "2024",
+        "url": "https://verfassungsblog.de/overcoming-big-tech-ai-merger-evasions-innovating-eu-competition-law-through-the-ai-act/",
+        "archiveUrl": "",
+        "coAuthors": "T. Emborg"
+      },
+      {
+        "title": "Designing a Better Competition Law Framework for the EU AI Industry (Parts I & II)",
+        "venue": "Competition Law Insight",
+        "type": "Policy Analysis",
+        "date": "2024",
+        "url": "https://www.competitionlawinsight.com/regulatory/designing-a-better-competition-law-framework-for-the-eu-ai-industry-158212.htm",
+        "archiveUrl": "",
+        "coAuthors": "C.P. Osorio",
+        "secondUrl": "https://www.competitionlawinsight.com/regulatory/designing-a-better-competition-law-framework-for-the-eu-ai-industry-158248.htm"
+      }
+    ],
+    "newsletter": [
+      {
+        "title": "AI Economics Brief",
+        "venue": "Windfall Trust",
+        "type": "Newsletter",
+        "date": "2025 \u2013 present",
+        "url": "#",
+        "archiveUrl": "",
+        "description": "Contributing Editor. Biweekly newsletter synthesising frontier AI economics research and policy developments for 1,200+ subscribers."
+      }
+    ],
+    "policy": [
+      {
+        "title": "Governance for the Frontier: AISI\u2019s Role in Facilitating Frontier AI Lab Information Sharing",
+        "venue": "AI Governance Fast Track Programme",
+        "type": "Report",
+        "date": "2025",
+        "url": "#",
+        "archiveUrl": "",
+        "coAuthors": "D. Muller, L. Leung, M. Chen",
+        "description": "Policy report presented at AISI and Department for Business and Trade. Strong accept at AIES 2025. Also published as 'Enabling AI Safety Information Sharing' at EuRIPS 2025."
+      },
+      {
+        "title": "Ensuring Trustworthy Evaluations: GPAI Model Access in the AI Act Codes of Practice",
+        "venue": "Pour Demain",
+        "type": "Policy Brief",
+        "date": "2024",
+        "url": "#",
+        "archiveUrl": "",
+        "coAuthors": "D. Marti, J. Farrell"
+      },
+      {
+        "title": "OECD Due Diligence Guideline for Responsible AI",
+        "venue": "Pour Demain / OECD",
+        "type": "Policy Contribution",
+        "date": "2024",
+        "url": "https://www.pourdemain.ngo/post/due-diligence-f%C3%BCr-verantwortungsvolle-ki",
+        "archiveUrl": ""
+      },
+      {
+        "title": "CEN/CENELEC JTC21 AI Standards",
+        "venue": "Pour Demain",
+        "type": "Standards Work",
+        "date": "2024",
+        "url": "#",
+        "archiveUrl": "",
+        "description": "Contributions to European AI standard-setting at CEN/CENELEC."
+      }
+    ],
+    "academic": [
+      {
+        "title": "Enabling AI Safety Information Sharing: UK Competition Law Block Exemptions and Institutional Design",
+        "venue": "EuRIPS 2025 Workshop PAIG",
+        "type": "Conference Paper",
+        "date": "2025",
+        "url": "https://openreview.net/forum?id=kCWS5D9dUS",
+        "archiveUrl": "",
+        "coAuthors": "D. Muller, M. Chen, L. Leung",
+        "description": "Develops competition law block exemptions enabling frontier AI labs to share safety-critical information without antitrust violations. Proposes AISI as neutral clearinghouse."
+      },
+      {
+        "title": "AI Automation Exposure Index Based on Moravec\u2019s Paradox",
+        "venue": "Cambridge ERA",
+        "type": "Working Paper",
+        "date": "2025",
+        "url": "#",
+        "archiveUrl": "",
+        "description": "Theory-based index classifying 19,000+ O*NET tasks across four automation dimensions."
+      },
+      {
+        "title": "The Costs and Benefits of Advanced AI: Evidence From the Labour Market",
+        "venue": "LMU Munich",
+        "type": "Thesis",
+        "date": "2024",
+        "url": "#",
+        "archiveUrl": "",
+        "description": "BSc thesis supervised by Prof. Ines Helm (Chair of AI in Economics). Grade: 1.0 (highest distinction)."
+      },
+      {
+        "title": "AI\u2019s Labour Market Effects in the UK",
+        "venue": "King\u2019s College London",
+        "type": "Research in Progress",
+        "date": "2025 \u2013 present",
+        "url": "#",
+        "archiveUrl": "",
+        "description": "Empirical research with Dr Bouke Klein Teeselink using Revelio Labs data, NLP task extraction, and triple-difference estimators.",
+        "coAuthors": "B. Klein Teeselink"
+      }
+    ]
+  },
+  "media": [
+    {
+      "outlet": "S\u00fcddeutsche Zeitung",
+      "headline": "Profile of student initiative at LMU Munich",
+      "date": "2023",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-tu-muenchen-effektiver-altruismus-hochschulgruppe-welt-retten-1.6306368",
+      "archiveUrl": "",
+      "logo": "sz.svg"
+    },
+    {
+      "outlet": "M\u00fcnchner Merkur",
+      "headline": "\u201eMit Talent und Flei\u00df einiges erreichen\u201c \u2014 interview on academic career",
+      "date": "Aug 2024",
+      "url": "https://www.merkur.de/lokales/region-holzkirchen/erfolg-studium-otterfing-drei-international-renommierten-universitaeten-angenommen-93234715.html",
+      "archiveUrl": "",
+      "logo": "merkur.svg"
+    },
+    {
+      "outlet": "LMU Munich",
+      "headline": "Deutschlandstipendium scholar profile",
+      "date": "2023",
+      "url": "https://www.lmu.de/de/workspace-fuer-studierende/support-angebote/studienfinanzierung/stipendien/deutschlandstipendium/jacob-schaal.html",
+      "archiveUrl": "",
+      "logo": "lmu.svg"
+    },
+    {
+      "outlet": "EU AI Act Newsletter",
+      "headline": "Coverage of Pour Demain\u2019s AI policy work",
+      "date": "2024",
+      "url": "https://artificialintelligenceact.substack.com/p/the-eu-ai-act-newsletter-54-ai-office",
+      "archiveUrl": "",
+      "logo": ""
+    },
+    {
+      "outlet": "Work/Code",
+      "headline": "[Placeholder \u2014 to be updated]",
+      "date": "TBD",
+      "url": "#",
+      "archiveUrl": "",
+      "logo": ""
+    }
+  ],
+  "talks": [
+    {
+      "event": "German Federal Ministry for Economic Affairs (BMWK)",
+      "location": "Berlin",
+      "date": "2025",
+      "description": "Presented research on AI\u2019s labour market impact."
+    },
+    {
+      "event": "UK AI Safety Institute (AISI)",
+      "location": "London",
+      "date": "2025",
+      "description": "Presented AI governance Fast Track Programme findings."
+    },
+    {
+      "event": "UK Department for Business and Trade",
+      "location": "London",
+      "date": "2025",
+      "description": "Policy research presentation on frontier AI lab information sharing."
+    }
+  ],
+  "researchInterests": "My research centres on the economics of AI, particularly how automation affects labour markets across experience levels. Core themes include: <strong>seniority-biased technological change</strong>, <strong>AI automation exposure measurement</strong>, <strong>the future of vocational training</strong>, and <strong>AI governance and regulation</strong> (EU AI Act, UK AI Safety)."
+}
