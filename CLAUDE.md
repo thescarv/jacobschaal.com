@@ -1,16 +1,15 @@
 # Project Memory — Jacob Schaal Personal Website
 
 ## Project Purpose
-Personal academic/policy website for Jacob Schaal. Pure HTML/CSS/JS with JSON data layer. No build step. Deployed to GitHub Pages.
+Personal academic/policy website for Jacob Schaal. Pure static HTML/CSS/JS. No build step. Deployed to GitHub Pages.
 
 ## Architecture
-- `index.html` — Homepage with 9 scrollable sections
+- `index.html` — Homepage (hero, affiliations, featured-in, selected writing, media, talks, newsletter)
 - `writing/index.html` — Full publications list
 - `about/index.html` — Extended bio
-- `data/content.json` — All structured content (publications, talks, media, affiliations)
 - `css/` — Design tokens, base styles, components, responsive
-- `js/main.js` — JSON renderer, mobile nav, smooth scroll
-- `assets/logos/` — SVG placeholder logos (swap for real ones later)
+- `js/main.js` — Mobile nav, smooth scroll
+- `assets/logos/` — SVG logos
 
 ## Design System
 - Fonts: Newsreader (headings), DM Sans (body) — Google Fonts
@@ -19,9 +18,11 @@ Personal academic/policy website for Jacob Schaal. Pure HTML/CSS/JS with JSON da
 - Breakpoints: 1024px (desktop), 768px (tablet), 480px (mobile)
 
 ## Content Updates
-To add a publication: edit `data/content.json` → add object to relevant array
-To add a logo: drop SVG in `assets/logos/`, reference filename in `content.json`
-Every external URL should have both `url` and `archiveUrl` (Perma.cc) fields
+All content lives directly in the HTML. There is no data layer.
+- To add a publication: copy an existing `writing-item` block in `writing/index.html` (and `index.html` if it should be featured)
+- To add a logo: drop an SVG in `assets/logos/` (lowercase filename) and reference it from the HTML; without a logo, use a visible `logo-bar__text` span
+- Contact email is set via `data-name` / `data-domain` on `.js-email` links (home and About pages)
+- Use canonical URLs, never personal gift/share links (e.g. Bloomberg `accessToken`, `substack.com/home/post/...`)
 
 ## Conventions
 - BEM-style CSS class naming
@@ -31,4 +32,5 @@ Every external URL should have both `url` and `archiveUrl` (Perma.cc) fields
 - Mobile-first responsive considerations
 
 ## Known Pitfalls
-<!-- Add corrections here as encountered -->
+- SSRN 5516798 is Klein Teeselink (2025), not Jacob's paper; the Moravec index is arXiv 2510.13369
+- Keep logo filenames lowercase; mixed-case duplicates break on case-insensitive checkouts
