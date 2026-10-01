@@ -717,3 +717,16 @@
   line-height: var(--lh-relaxed);
   margin-bottom: var(--sp-2);
 }
+
+/* Photo captions */
+figure {
+  margin: var(--sp-6) 0 0;
+}
+
+figcaption {
+  font-size: var(--fs-sm);
+  font-style: normal;
+  text-align: left;
+  color: var(--text-muted);
+  margin-top: var(--sp-2);
+}
