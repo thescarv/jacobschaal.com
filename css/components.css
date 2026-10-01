@@ -276,6 +276,14 @@
   transition: filter var(--transition-base), opacity var(--transition-base);
 }
 
+.logo-bar__item--wordmark img {
+  height: 24px;
+}
+
+.logo-bar__item--script img {
+  height: 34px;
+}
+
 .logo-bar__item:hover img {
   filter: grayscale(0%);
   opacity: 1;
@@ -363,7 +371,6 @@
 .writing-item__coauthors {
   font-size: var(--fs-sm);
   color: var(--text-muted);
-  font-style: italic;
 }
 
 .writing-item__description {
@@ -670,7 +677,6 @@
   color: var(--color-text-secondary);
   margin-top: 0.5rem;
   text-align: center;
-  font-style: italic;
 }
 
 .about__photo img {
