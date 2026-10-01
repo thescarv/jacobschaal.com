@@ -284,21 +284,6 @@
   height: 34px;
 }
 
-.logo-bar__item--lockup {
-  gap: var(--sp-2);
-}
-
-.logo-bar__item--lockup img {
-  height: 28px;
-}
-
-.logo-bar__lockup-text {
-  font-family: var(--font-body);
-  font-size: var(--fs-xs);
-  line-height: 1.25;
-  color: var(--text-muted);
-  text-align: left;
-}
 
 .logo-bar__item:hover img {
   filter: grayscale(0%);
