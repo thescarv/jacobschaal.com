@@ -730,3 +730,8 @@ figcaption {
   color: var(--text-muted);
   margin-top: var(--sp-2);
 }
+
+/* Coverage list under the Featured In logos */
+.featured__coverage {
+  margin-top: var(--sp-12);
+}
