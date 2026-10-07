@@ -219,3 +219,26 @@
     width: 100%;
   }
 }
+
+/* Mobile: compact logos wrap instead of scrolling; more room between items */
+@media (max-width: 768px) {
+  .logo-bar--compact {
+    flex-wrap: wrap;
+    overflow-x: visible;
+    justify-content: center;
+    gap: var(--sp-4) var(--sp-6);
+  }
+
+  .hero__featured-label {
+    text-align: center;
+  }
+
+  .writing-item {
+    padding: var(--sp-6) var(--sp-3);
+  }
+
+  .media-item {
+    padding: var(--sp-4) var(--sp-3);
+  }
+
+}

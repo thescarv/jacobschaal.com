@@ -355,7 +355,9 @@
 .writing-item__meta {
   display: flex;
   align-items: center;
-  gap: var(--sp-3);
+  flex-wrap: wrap;
+  column-gap: var(--sp-3);
+  row-gap: var(--sp-1);
   margin-top: var(--sp-2);
 }
 
@@ -729,4 +731,59 @@ figcaption {
   text-align: left;
   color: var(--text-muted);
   margin-top: var(--sp-2);
+}
+
+/* Hero: affiliation logos under the photo */
+.hero__aside {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--sp-4);
+}
+
+.hero__affiliations {
+  display: flex;
+  gap: var(--sp-3);
+}
+
+.hero__affiliations img {
+  height: 44px;
+  width: auto;
+  border-radius: var(--radius-sm);
+  display: block;
+}
+
+/* Hero: compact "Featured in" strip */
+.hero__featured {
+  margin-top: var(--sp-8);
+  padding-top: var(--sp-6);
+  border-top: 1px solid var(--border-light);
+}
+
+.hero__featured-label {
+  font-size: var(--fs-xs);
+  color: var(--text-muted);
+  margin-bottom: var(--sp-3);
+}
+
+.logo-bar--compact {
+  justify-content: flex-start;
+  gap: var(--sp-6);
+}
+
+.logo-bar--compact .logo-bar__item img {
+  height: 22px;
+}
+
+.logo-bar--compact .logo-bar__item--wordmark img {
+  height: 16px;
+}
+
+.logo-bar--compact .logo-bar__item--script img {
+  height: 24px;
+}
+
+/* Keep venue, date and co-author chunks unbroken */
+.writing-item__meta > span {
+  white-space: nowrap;
 }
